@@ -1,4 +1,4 @@
-# Horiseon
+# Code Refactor
 ## Purpose
 
 Horiseon is a website that follows accessibility standards
